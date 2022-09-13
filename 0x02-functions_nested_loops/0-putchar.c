@@ -1,16 +1,16 @@
-#include <stdio.h>
-#include "main.h"
+ #include <stdio.h>
+ #include "main.h"
 
-/**
- * main - program entry point
- *
- * Description: This is a program to print putchar
- *
- * Return: Always 0 (Success)
- */
-int main(void)
+ /**
+  * main - program entry point
+  *
+  * Description: This is a program to print putchar
+  *
+  * Return: Always 0 (Success)
+  */
+ int main(void)
 
-{
+ {
 	putchar('_');
 	putchar('p');
 	putchar('u');
@@ -22,6 +22,6 @@ int main(void)
 	putchar('\n');
 
 	return (0);
-}
+ }
 
  
